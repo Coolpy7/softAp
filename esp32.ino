@@ -1,4 +1,5 @@
-#include <WiFi.h>
+// #include <WiFi.h> //esp32
+#include <ESP8266WiFi.h> //esp8266
 #include <WiFiUdp.h> //引用以使用UDP
 #include <ArduinoJson.h>
 
